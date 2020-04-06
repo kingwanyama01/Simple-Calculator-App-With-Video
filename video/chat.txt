@@ -1,0 +1,2 @@
+10:39:31	 From Israel Goodnews : why is there the .text. between mEdtFnumber and the .tostring() can’t you just use .tostring() alone
+10:40:11	 From Israel Goodnews : like you did with first_number.toDouble()
